@@ -1,2 +1,3 @@
-# devsoc_aboutme_tp2025
-# devsoc_aboutme_tp2025
+DevSoc Trainee Program About Me Wesbite
+
+Using: HTML, CSS, JS
